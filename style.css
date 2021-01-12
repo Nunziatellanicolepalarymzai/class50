@@ -1,0 +1,39 @@
+h1{
+
+    color:red
+    
+    }
+    
+    *{
+    background-color:cyan ;
+    
+    border:solid
+    
+    }
+    
+    p{
+    
+    color:skyblue
+    
+    
+    }
+.header{
+
+background-color:lightpink
+
+}
+
+.grid{
+
+    background-color:purple
+
+
+}
+
+.footer{
+
+
+display:flex,
+
+
+}
